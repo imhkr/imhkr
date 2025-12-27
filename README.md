@@ -16,7 +16,7 @@
   
 ### **Talking about Personal Stuffs:**
 
- 🌱 I’m currently learning <b>Data Structures & Algorithm </b>;<br> 
+ 🌱 I’m currently learning <b>Gen AI</b>;<br> 
  💬 Ask me about anything, I am happy to help;<br>
  📝[My Resume](https://drive.google.com/file/d/1XgEjGS3Gtf_58hefwCrBVd9ToShn0sSs/view?usp=sharing)<br>
 
