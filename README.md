@@ -18,7 +18,7 @@
 
  🌱 I’m currently learning <b>Data Structures & Algorithm </b>;<br> 
  💬 Ask me about anything, I am happy to help;<br>
- 📝[My Resume](https://drive.google.com/file/d/1GU0F1pUREmYd_z59WicJfrNTbWKW4Zd6/view?usp=sharing)<br>
+ 📝[My Resume](https://drive.google.com/file/d/1XgEjGS3Gtf_58hefwCrBVd9ToShn0sSs/view?usp=sharing)<br>
 
 
 ### **Languages and Tools:**  
